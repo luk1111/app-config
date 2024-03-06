@@ -4,4 +4,4 @@ spring:
   security:
     enabled: false
 app:
-  nic: w-sumie
+  nic: w-sumie-nic-mi-sie-nie-udaje
