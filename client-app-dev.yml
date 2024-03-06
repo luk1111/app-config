@@ -14,4 +14,4 @@ management:
   endpoints:
     web:
       exposure:
-        include: info, health, loggers, metrics, prometheus, liquibase, refresh
+        include: info, health, refresh
