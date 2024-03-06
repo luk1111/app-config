@@ -4,7 +4,7 @@ spring:
   security:
     enabled: false
 app:
-  nic: w-sumie-nic-mi-sie-nie-udaje
+  nic: w-sumie-nic-mi-sie-nie-udaje-1
 
 management:
   info:
